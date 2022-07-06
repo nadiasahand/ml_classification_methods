@@ -19,22 +19,6 @@ df.head(5)
 ```
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -196,21 +180,6 @@ df.head()
 
 
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -401,7 +370,8 @@ seaborn.heatmap(corr)
 
 
     
-![png](output_8_2.png)
+![output_8_2](https://user-images.githubusercontent.com/25687155/177502915-32e099e1-e83d-4d75-a323-34d74bd50941.png)
+
     
 
 
@@ -437,7 +407,7 @@ seaborn.heatmap(abs(corr)>0.1)
 
 
     
-![png](output_11_1.png)
+![output_11_1](https://user-images.githubusercontent.com/25687155/177502963-d487edaa-0678-4af6-8ef3-9bf34b721388.png)
     
 
 
@@ -535,7 +505,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/25687155/177503028-6aee448b-33cf-49fe-9563-a20b6b513bac.png)
     
 
 
@@ -641,7 +611,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![output_28_0](https://user-images.githubusercontent.com/25687155/177503130-eb870f00-2bd4-438d-a3e9-b11720eb5f13.png)
     
 
 
